@@ -1,4 +1,7 @@
 # Data Scientist
+Email: ngthtruc1412@gmail.com
+Phone: (+44) 7783 798 188
+Address: Glasgow G1 1PU, UK
 
 ### Education
 MSc in Applied Statistics - University of Strathclyde
