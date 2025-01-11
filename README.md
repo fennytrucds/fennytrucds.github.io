@@ -1,3 +1,12 @@
+---
+#
+# By default, content added below the "---" mark will appear in the home page
+# between the top bar and the list of recent posts.
+# To change the home page layout, edit the _layouts/default.html file.
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+#
+layout: default
+
 # Data Scientist
 Email: ngthtruc1412@gmail.com
 Phone: (+44) 7783 798 188
@@ -13,3 +22,4 @@ Data Science Analyst at Saigon A.I.
 
 ### Technical Skills
 Programming Language: Python, SQL and R
+---
